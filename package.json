@@ -11,8 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "husky": "^4.3.8",
-    "jest": "^27.4.3",
-    "pre-commit": "^1.2.2"
+    "jest": "^27.4.3"
   },
   "pre-commit": [
     "test"
